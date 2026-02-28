@@ -1,0 +1,10 @@
+# Keil工程排除项
+*.uvprojx
+*.uvoptx
+*.obj
+*.lst
+*.axf
+*.hex
+*.bak
+obj/
+list/
